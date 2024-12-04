@@ -2,7 +2,9 @@ DAVID FASTJE
     661·532·8344 ⋄ DFastjeWork@gmail.com
 EXPERIENCE
     Monster Government Services
-        Senior Full Stack Developer
+        Positions:
+            Senior Full Stack Developer
+        Overview:
             - Designed, developed, and automated security authentication processes for API communication with customer agencies
                 Tools: Oauth, Cloudformation, API Gateway, AWS Lambda (Node), Cognito, Tableau API, WSO2, IAM
             - Automated the creation of a Tableau Cluster in multiple Linux distros
@@ -12,19 +14,31 @@ EXPERIENCE
             - Designed and established branching and quality control practices for Source Control migration
                 Tools: Perforce, Github
             - Subject matter expert for security and infrastructure regarding analytics app feature
-    Kinsale Insurance Feb. 2019 - Present
-        Lead Full Stack Developer Remote & Richmond, VA
+        Mentionable tasks:
+            - Wrote SQL scripts to import old client data into latest version of DB schemas
+            - Extracted lost institutional knowledge from variety of sources on WSO2 (API Gateway) and created training/documentation
+            -
+    Kinsale Insurance Feb. 2019 - Nov. 2020
+        Positions:
+            Lead Full Stack Developer
+            Senior Full Stack Developer
+            Contractor
+        Overview:
             - Mentor new developers in these development tools and standard designs:
             - Java (Spring, SpringBoot, AWS SDK, RabbitMQ, ActiveMQ, Lombok, Hibernate, Spring Security,
             Swagger, Jasypt encryption), TypeScript (Angular Material), Maven, SQL, Tomcat, IntelliJ
             - Design and implement financial booking process for insurance policies
             - Established standard agile and development practices
-        Senior Full Stack Developer
             - Maintained and improved Kinsale’s primary revenue generating application
             - Identified, diagnosed, and patched performance bottleneck in distributed system
-        Contractor
             - Developed application for company with recent IPO to become SOX compliant
             - Provided guidance in key cloud architecture decisions for designing resilient systems
+        Mentionable tasks:
+            - POC of RabbitMQ
+            - POC of ActiveMQ
+            - Extracted business logic from Stored Procedures
+            - Fixed bugs in Stored Procedures
+
     Capital One Aug. 2017 - June 2018
         Software Engineer, Senior Associate Richmond, VA
             - Developed functional tests using Cucumber for asynchronous event based processes (SNS/SQS, S3),
