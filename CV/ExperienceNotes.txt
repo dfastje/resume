@@ -1,5 +1,5 @@
 DAVID FASTJE
-    661·532·8344 ⋄ DFastjeWork@gmail.com
+    661·532·8344 ⋄ DFastjeWork@protonmail.com
 EXPERIENCE
     Monster Government Services
         Positions:
@@ -17,7 +17,15 @@ EXPERIENCE
         Mentionable tasks:
             - Wrote SQL scripts to import old client data into latest version of DB schemas
             - Extracted lost institutional knowledge from variety of sources on WSO2 (API Gateway) and created training/documentation
-            -
+            - Wrote AWS Lambda Authorizer using Node to integrate customer auth in AWS API gateway auth with Tableau API
+                -Tools: AWS API Gateway, AWS Lambda, NodeJS, Amazon Cognito, Tableau
+            - Wrote Tableau installation & initialization scripts for single node and cluster
+                -Tools: AL2, RHEL, AWS CFT, Shell, AWS S3, AWS System Manager Run Command, SELinux, FIPS
+            - POC on all possible auth solutions for Tableau
+            - Integrated Tableau into existing App authentication
+            - Fixed security issues and bugs in multiple kubernetes containers
+            - Redesigned CI/CD pipeline template
+                - Tools: Jenkins, Groovy, Tableau, Docker, Kubernetes, AWS Fargate, APIs
     Kinsale Insurance Feb. 2019 - Nov. 2020
         Positions:
             Lead Full Stack Developer
@@ -49,6 +57,7 @@ EXPERIENCE
             - Developed two Java libraries used across multiple teams and applications for security and code reuse
             - Re-tooled product with microservice architecture to comply with security standards
             - Implemented CI/CD pipeline with Jenkins in four microservices
+
     General Motors June 2015 - June 2017
         Java Developer Chandler, AZ
             - Contributed to development of mission critical supply chain and warehousing applications using
