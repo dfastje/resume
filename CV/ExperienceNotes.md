@@ -2,6 +2,9 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 
 # EXPERIENCE
 
+<details>
+<summary>Monster Government Services</summary>
+
 ## Monster Government Services (Monster Worldwide) Nov. 2020 - July 2024
 ### Positions:
 - Senior Full Stack Developer  
@@ -41,7 +44,7 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 - Developed Proxy to address connection limitations between our network and SAAS provider network
     - Designed and documented permanent solution
 - Designed, ran POC, developed IAC, and maintained all aspects of network infrastructure to integrate internally maintained Tableau Cluster with existing Application
-
+</details>
 ## Kinsale Insurance Feb. 2019 - Nov. 2020
 ### Positions:
 - Lead Full Stack Developer
