@@ -2,10 +2,11 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 
 # EXPERIENCE
 
+## Monster Government Services (Monster Worldwide)
 <details>
-<summary>Monster Government Services</summary>
 
-## Monster Government Services (Monster Worldwide) Nov. 2020 - July 2024
+### Dates:
+- Nov. 2020 - July 2024
 ### Positions:
 - Senior Full Stack Developer  
 ### Location:
@@ -46,15 +47,15 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 - Designed, ran POC, developed IAC, and maintained all aspects of network infrastructure to integrate internally maintained Tableau Cluster with existing Application
 </details>
 
+## Kinsale Insurance
 <details>
-<summary>Kinsale Insurance</summary>
 
-## Kinsale Insurance Feb. 2019 - Nov. 2020
+### Dates:
+- Feb. 2019 - Nov. 2020
 ### Positions:
 - Lead Full Stack Developer
 - Senior Full Stack Developer
 - Contractor
-
 ### Location:
 - Remote
 - Richmond, VA
@@ -77,10 +78,11 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 
 </details>
 
+## Capital One
 <details>
-<summary>Capital One</summary>
 
-## Capital One Aug. 2017 - June 2018
+### Dates:
+Aug. 2017 - June 2018
 ### Positions:
 - Software Engineer, Senior Associate
 ### Location:
@@ -96,10 +98,11 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 
 </details>
 
+## General Motors 
 <details>
-<summary>General Motors</summary>
 
-## General Motors June 2015 - June 2017
+### Dates:
+- June 2015 - June 2017
 ### Positions:
 - Java Developer 
 ### Location:
@@ -117,10 +120,11 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
 
 </details>
 
+## Center for Gamma-Ray Imaging 
 <details>
-<summary>CGRI Laboratory</summary>
 
-## Center for Gamma-Ray Imaging May 2011 - May 2015, 1 Year Hiatus
+### Dates:
+- May 2011 - May 2015, 1 Year Hiatus
 ### Positions:
 - Research Assistant 
 ### Location:
@@ -133,9 +137,7 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
 - Designed, constructed, and tested neutron and gamma-ray imaging systems
 - Designed and executed countless experiments
 - Built/maintained servers for lab's server room
-- Presented research on multiple occasions:
-    - Lucy Engel Undergraduate Research Symposium (May, 2015)
-      - Universal Atom Beam Detector: Expanding the List of Applications for Atom Optics
+- Presented research on multiple occasions
     - SPIE conference (San Diego, Aug 2013)
       - Non-linear Response of Image Intensifiers: Consequences for Gamma-ray Imaging
 - Published research on multiple occasions: (Note: SPIE often has loading issues on their site)
@@ -156,10 +158,21 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
 
 </details>
 
+## Atom Interferometry Laboratory
 <details>
-<summary>Side Project Tools</summary>
+
+### Dates:
+- Jan 2015 - May 2015
+### Positions:
+- Volunteer Research Assistant
+### Overview:
+- Lucy Engel Undergraduate Research Symposium (May, 2015)
+  - Universal Atom Beam Detector: Expanding the List of Applications for Atom Optics
+</details>
 
 ## Tools used in side projects:
+<details>
+
 - VM/Container:
     - Virtualbox
     - Hyper-V (Windows)
@@ -214,12 +227,32 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
 # Education:
 - B.S. in Physics with minor in Math from the University of Arizona
 
-# Awards:
+# Awards, Presentations and Publications:
+<details>
+
 - Dean's List
 - AP Scholar with Distinction
 - Eagle Scout
+- Lucy Engel Undergraduate Research Symposium (May, 2015)
+  - Universal Atom Beam Detector: Expanding the List of Applications for Atom Optics
+- SPIE conference (San Diego, Aug 2013)
+  - Non-linear Response of Image Intensifiers: Consequences for Gamma-ray Imaging
+- Imaging properties of pixelated scintillators with deep pixels
+  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9215/92150F/Imaging-properties-of-pixellated-scintillators-with-deep-pixels/10.1117/12.2066172.short
+- Estimation of Fano factor in inorganic scintillators
+  - https://www.sciencedirect.com/science/article/abs/pii/S0168900215008384
+- Testing of a gamma ray imaging system at the High Intensity Gamma Source
+  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9211/921105/Testing-of-a-gamma-ray-imaging-system-at-the-High/10.1117/12.2066254.short
+- Preliminary investigation of the non-linear response of image intensifiers used for gamma-ray imaging
+  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8854/88540J/Preliminary-investigation-fo-the-non-linear-response-of-image-intensifiers/10.1117/12.2030175.short
+- Estimation of Fano factor in inorganic scintillators from time correlations
+  - https://ieeexplore.ieee.org/abstract/document/7581943
+- Negative temporal cross covariance in SrI2:Eu
+  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9595/959504/Negative-temporal-cross-covariance-in-SrI2Eu/10.1117/12.2214406.short
+- Testing of a gamma ray imaging system at Omega
+  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8854/88540F/Testing-of-a-gamma-ray-imaging-system-at-Omega/10.1117/12.2024400.short
 
-
+</details>
 
 
 
