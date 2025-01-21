@@ -184,7 +184,7 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
     - HAProxy
 
 # Education:
-- B.S. in Physics with minor in Math from U of A
+- B.S. in Physics with minor in Math from the University of Arizona
 
 # Awards:
 - Dean's List
