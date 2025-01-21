@@ -138,7 +138,8 @@ EXPERIENCE
             -Jetbrains IDEs
             -TeXstudio
             -Flatpak
-
+Education:
+    B.S. in Physics with minor in Math from U of A
 Awards:
     -Dean's List
     -AP Scholar with Distinction
