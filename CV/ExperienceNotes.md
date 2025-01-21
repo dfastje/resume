@@ -45,6 +45,10 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
     - Designed and documented permanent solution
 - Designed, ran POC, developed IAC, and maintained all aspects of network infrastructure to integrate internally maintained Tableau Cluster with existing Application
 </details>
+
+<details>
+<summary>Kinsale Insurance</summary>
+
 ## Kinsale Insurance Feb. 2019 - Nov. 2020
 ### Positions:
 - Lead Full Stack Developer
@@ -71,6 +75,11 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 - Extracted business logic from Stored Procedures
 - Fixed bugs in Stored Procedures
 
+</details>
+
+<details>
+<summary>Capital One</summary>
+
 ## Capital One Aug. 2017 - June 2018
 ### Positions:
 - Software Engineer, Senior Associate
@@ -84,6 +93,11 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 - Developed two Java libraries used across multiple teams and applications for security and code reuse
 - Re-tooled product with microservice architecture to comply with security standards
 - Implemented CI/CD pipeline with Jenkins in four microservices
+
+</details>
+
+<details>
+<summary>General Motors</summary>
 
 ## General Motors June 2015 - June 2017
 ### Positions:
@@ -100,6 +114,11 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
 - Led team subgroups in development of application features
 - Went through 4 waterfall cycles of a single application, seeing many rounds of the entire software development lifecycle
 - Completed trainings for webserver management, java, relational databases, and UX design
+
+</details>
+
+<details>
+<summary>CGRI Laboratory</summary>
 
 ## Center for Gamma-Ray Imaging May 2011 - May 2015, 1 Year Hiatus
 ### Positions:
@@ -135,6 +154,10 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
   - Testing of a gamma ray imaging system at Omega
     - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8854/88540F/Testing-of-a-gamma-ray-imaging-system-at-Omega/10.1117/12.2024400.short
 
+</details>
+
+<details>
+<summary>Side Project Tools</summary>
 
 ## Tools used in side projects:
 - VM/Container:
@@ -185,6 +208,8 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
     - Apache Tomcat
     - Weblogic
     - HAProxy
+
+</details>
 
 # Education:
 - B.S. in Physics with minor in Math from the University of Arizona
