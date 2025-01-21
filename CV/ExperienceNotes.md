@@ -221,6 +221,8 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
     - Apache Tomcat
     - Weblogic
     - HAProxy
+    - Shell scripts
+    - Crontab
 
 </details>
 
