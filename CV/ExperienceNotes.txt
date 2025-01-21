@@ -1,3 +1,5 @@
+This is a work in progress (I will remove this disclaimer when I stop regularly remembering noteworthy experience & work I've done)
+
 EXPERIENCE
     Monster Government Services (Monster Worldwide)
         Positions:
@@ -20,6 +22,7 @@ EXPERIENCE
             - Identified and patched issues with running Tableau on RHEL with SELinux enabled and FIPS mode
             - Wrote SQL scripts to import old client data into latest version of DB schemas
             - Extracted lost institutional knowledge from variety of sources on WSO2 (API Gateway) and created training/documentation
+            - Regularly trained developers in all parts of our tech stack. I always make time for pair programming
             - Wrote AWS Lambda Authorizer using Node to integrate customer auth in AWS API gateway auth with Tableau API
                 -Tools: AWS API Gateway, AWS Lambda, NodeJS, Amazon Cognito, Tableau
             - Wrote Tableau installation & initialization scripts for single node and cluster
@@ -29,6 +32,10 @@ EXPERIENCE
             - Fixed security issues and bugs in multiple kubernetes containers
             - Redesigned CI/CD pipeline template to address workflow issues
                 - Tools: Jenkins, Groovy, Tableau, Docker, Kubernetes, AWS Fargate, APIs
+            - Designed and developed Tableau Site & Workbook Deployment State tracking system to easily reproduce exact system for non-prod troubleshooting and rollback purposes
+            - Maintained MySQL database infrastructure for multiple teams and applications (IAC scripts, backups, Access rights, FIPS compliance, ...)
+            - Designed, developed, and maintained infrastructure for secure connection & integration to SAAS provider's network
+
     Kinsale Insurance Feb. 2019 - Nov. 2020
         Positions:
             Lead Full Stack Developer
