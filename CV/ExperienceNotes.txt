@@ -35,6 +35,9 @@ EXPERIENCE
             - Designed and developed Tableau Site & Workbook Deployment State tracking system to easily reproduce exact system for non-prod troubleshooting and rollback purposes
             - Maintained MySQL database infrastructure for multiple teams and applications (IAC scripts, backups, Access rights, FIPS compliance, ...)
             - Designed, developed, and maintained infrastructure for secure connection & integration to SAAS provider's network
+            - Developed Proxy to address connection limitations between our network and SAAS provider network
+                - Designed and documented permanent solution
+            - Designed, ran POC, developed IAC, and maintained all aspects of network infrastructure to integrate internally maintained Tableau Cluster with existing Application
 
     Kinsale Insurance Feb. 2019 - Nov. 2020
         Positions:
@@ -145,8 +148,13 @@ EXPERIENCE
             -Jetbrains IDEs
             -TeXstudio
             -Flatpak
+            -Apache Tomcat
+            -Weblogic
+            -HAProxy
+
 Education:
     B.S. in Physics with minor in Math from U of A
+
 Awards:
     -Dean's List
     -AP Scholar with Distinction
