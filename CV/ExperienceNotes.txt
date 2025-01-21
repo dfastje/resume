@@ -139,7 +139,10 @@ EXPERIENCE
             -TeXstudio
             -Flatpak
 
-
+Awards:
+    -Dean's List
+    -AP Scholar with Distinction
+    -Eagle Scout
 
 
 
