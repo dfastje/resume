@@ -13,7 +13,7 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 - Wrote custom WSO2 Mediator for authentication integration between customer systems
     - Tools: Java, Oauth2, Encryption, WSO2 API Gateway, REST API
 - Automated the creation of a Tableau Cluster in multiple Linux distros
-    - Tools: Tableau, Shell, Cloudformation, AWS System Manager, EC2 Instance Connect, AMS, S3, EC2, IAM, OpenSSL, TLS, ALB, NLB, SG,
+    - Tools: Tableau, Shell, Cloudformation, AWS System Manager, EC2 Instance Connect, AMS, S3, EC2, IAM, OpenSSL, TLS, ALB, NLB, SG
 - Researched, designed, and implemented user authentication solution to integrate Tableau into existing product
     - Tools: Tableau REST API, Java, Spring, Angular, SAML, Shell, Custom IdP
 - Designed and established branching and quality control practices for Source Control migration
@@ -52,9 +52,9 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 - Remote
 - Richmond, VA
 ### Overview:
-- Mentor new developers in these development tools and standard designs:
-- Java (Spring, SpringBoot, AWS SDK, RabbitMQ, ActiveMQ, Lombok, Hibernate, Spring Security,
-Swagger, Jasypt encryption), TypeScript (Angular Material), Maven, SQL, Tomcat, IntelliJ
+- Mentor new developers development stack and standard designs patterns
+  - Tools: Java (Spring, SpringBoot, AWS SDK, RabbitMQ, ActiveMQ, Lombok, Hibernate, Spring Security,
+  Swagger, Jasypt encryption), TypeScript (Angular Material), Maven, SQL, Tomcat, IntelliJ
 - Design and implement financial booking process for insurance policies
 - Established standard agile and development practices
 - Maintained and improved Kinsale’s primary revenue generating application
