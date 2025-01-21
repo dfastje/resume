@@ -82,7 +82,7 @@ This is a work in progress (I will remove this disclaimer when I stop regularly 
 - Re-tooled product with microservice architecture to comply with security standards
 - Implemented CI/CD pipeline with Jenkins in four microservices
 
-# General Motors June 2015 - June 2017
+## General Motors June 2015 - June 2017
 ### Positions:
 - Java Developer 
 ### Location:
@@ -98,7 +98,7 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
 - Went through 4 waterfall cycles of a single application, seeing many rounds of the entire software development lifecycle
 - Completed trainings for webserver management, java, relational databases, and UX design
 
-# Center for Gamma-Ray Imaging May 2011 - May 2015, 1 Year Hiatus
+## Center for Gamma-Ray Imaging May 2011 - May 2015, 1 Year Hiatus
 ### Positions:
 - Research Assistant 
 ### Location:
@@ -133,7 +133,7 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
     - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8854/88540F/Testing-of-a-gamma-ray-imaging-system-at-Omega/10.1117/12.2024400.short
 
 
-# Tools used in side projects:
+## Tools used in side projects:
 - VM/Container:
     - Virtualbox
     - Hyper-V (Windows)
