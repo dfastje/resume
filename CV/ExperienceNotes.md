@@ -155,6 +155,8 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
     - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9595/959504/Negative-temporal-cross-covariance-in-SrI2Eu/10.1117/12.2214406.short
   - Testing of a gamma ray imaging system at Omega
     - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8854/88540F/Testing-of-a-gamma-ray-imaging-system-at-Omega/10.1117/12.2024400.short
+  - Investigation of the possibility of gamma-ray diagnostic imaging of target compression at NIF
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC3571118/
 
 </details>
 
@@ -253,6 +255,8 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
   - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9595/959504/Negative-temporal-cross-covariance-in-SrI2Eu/10.1117/12.2214406.short
 - Testing of a gamma ray imaging system at Omega
   - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8854/88540F/Testing-of-a-gamma-ray-imaging-system-at-Omega/10.1117/12.2024400.short
+- Investigation of the possibility of gamma-ray diagnostic imaging of target compression at NIF
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC3571118/
 
 </details>
 
