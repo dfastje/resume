@@ -231,7 +231,7 @@ Java (Spring), SQL, JavaScript (Angular), Batch, Tomcat, WebLogic, IntelliJ, and
 # Education:
 - B.S. in Physics with minor in Math from the University of Arizona
 
-# Awards, Presentations and Publications:
+# Awards, Presentations, and Publications:
 <details>
 
 - Dean's List
